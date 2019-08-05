@@ -1,6 +1,7 @@
 ## Spring Boot + Rest + Hibernate + JPA + MySQL
 - Spring Boot to store data into Mysql database using JPA Repository with very minimal configuration.
 - It will run in all cases and there will not be 403 error in response.
+- Update value of "mytoshika.paths.uploadedFiles" key in appliacation.poperties where you want to keep uploaded data.
 
 ### Usage
 
